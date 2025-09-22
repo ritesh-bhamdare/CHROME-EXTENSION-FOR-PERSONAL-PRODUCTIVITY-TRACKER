@@ -1,4 +1,12 @@
-# CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER
+#  CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER
+
+**COMPANY:** CODTECH IT SOLUTIONS  
+**NAME:** RITESH BHAMDARE   
+**INTERN ID:** CT08DZ656  
+**DOMAIN:** REACT.JS WEB DEVELOPMENT  
+**DURATION:** 8 WEEKS  
+**MENTOR:** NEELA SANTHOSH KUMAR  
+
 
 A **React + Vite + Tailwind CSS** powered extension for managing tasks, notes, and habits to boost personal productivity. The extension is lightweight, fast, and customizable, making it a perfect companion for anyone who wants to stay organized.
 
@@ -27,7 +35,7 @@ The **Productivity Tracker Extension** helps you manage your workflow with ease.
 * **Vite** — Development build tool
 * **Tailwind CSS** — Styling framework
 * **ESLint** — Code linting
-* **Browser Extension APIs** (Manifest V3 support)
+* **Browser Extension APIs**
 
 ---
 
